@@ -5,7 +5,7 @@
     "networkMode": "bridge",
     "containerDefinitions": [
         {
-            "name": "e-immigrate-client2",
+            "name": "",
             "cpu": 0,
             "memoryReservation": 128,
             "portMappings": [
