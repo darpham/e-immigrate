@@ -37,7 +37,7 @@
     "volumes": [],
     "placementConstraints": [],
     "requiresCompatibilities": [
-        "Ec2"
+        "EC2"
     ],
     "compatibilities": [
         "EC2"
