@@ -38,8 +38,5 @@
     "placementConstraints": [],
     "requiresCompatibilities": [
         "EC2"
-    ],
-    "compatibilities": [
-        "EC2"
     ]
 }
