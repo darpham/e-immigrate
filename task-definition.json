@@ -1,11 +1,11 @@
 {
-    "family": "e-immigrate-client2",
+    "family": "e-immigrate-client",
     "taskRoleArn": "",
     "executionRoleArn": "",
     "networkMode": "bridge",
     "containerDefinitions": [
         {
-            "name": "",
+            "name": "e-immigrate-client",
             "cpu": 0,
             "memoryReservation": 128,
             "portMappings": [
