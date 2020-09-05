@@ -10,7 +10,7 @@ RUN apk --no-cache --virtual build-dependencies add \
     git \
     openssh-client
 
-COPY . /usr/src/app
+COPY ../ /usr/src/app
 
 RUN npm install
 RUN npm install -g serve
