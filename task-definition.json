@@ -6,10 +6,6 @@
     "containerDefinitions": [
         {
             "name": "e-immigrate-client2",
-            "image": "",
-            "repositoryCredentials": {
-                "credentialsParameter": ""
-            },
             "cpu": 0,
             "memoryReservation": 128,
             "portMappings": [
