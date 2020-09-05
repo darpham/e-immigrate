@@ -46,7 +46,7 @@ jobs:
       id: task-def
       uses: aws-actions/amazon-ecs-render-task-definition@v1
       with:
-        task-definition: task-definition.json
+        task-definition: AWS-Deployment/task-definition.json
         container-name: e-immigrate-client
         image: ${{ steps.build-image.outputs.image }}
 
